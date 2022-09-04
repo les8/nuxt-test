@@ -8,5 +8,6 @@
 <script>
 export default {
   name: 'UsersNest',
+  layout: 'header',
 }
 </script>

@@ -10,5 +10,6 @@
 <script>
 export default {
   name: 'IndexPage',
+  layout: 'header',
 }
 </script>
