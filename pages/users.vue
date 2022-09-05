@@ -9,5 +9,6 @@
 export default {
   name: 'UsersNest',
   layout: 'header',
-}
+  middleware: ['checkAuth'],
+};
 </script>
